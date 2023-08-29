@@ -31,7 +31,7 @@ variable "vnet" {
 
 variable "subnet-name" {
   type = string
-  default = "eng-subnet"
+  default = ""
 }
 variable "postfix" {
   type = string
